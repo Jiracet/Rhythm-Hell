@@ -1,0 +1,10 @@
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\RhythmHell.exe.config
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\RhythmHell.exe
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\RhythmHell.pdb
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\OpenTK.dll
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\OpenTK.pdb
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\bin\Release\OpenTK.xml
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\obj\Release\RhythmHell.Properties.Resources.resources
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\obj\Release\RhythmHell.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\obj\Release\RhythmHell.exe
+C:\Users\Joseph\Documents\Visual Studio 2012\Projects\RhythmHell\RhythmHell\obj\Release\RhythmHell.pdb

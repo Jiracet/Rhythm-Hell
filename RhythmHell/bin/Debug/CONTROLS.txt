@@ -1,0 +1,7 @@
+Up
+Down
+Left
+Right
+Z
+X
+C
